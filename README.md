@@ -1,4 +1,4 @@
-# Anniversary Card with Jquery
+# Anniversary Card with jQuery
 
 ## About
 
